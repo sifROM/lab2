@@ -19,7 +19,7 @@ architecture behave of process_tb is
       i_bit4    : in  std_logic;
       o_bit : out std_logic);
   end component or4;
-
+--behin behave
 begin
 
   and_gate_INST : or4
